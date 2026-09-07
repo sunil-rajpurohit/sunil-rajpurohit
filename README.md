@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil Rajpurohit (Yogendra)</h1>
-<h3 align="center">Aspiring software developer on a gap year for skill development. Learning Python, Web Dev, and more. Let's connect!</h3>
+<h3 align="center">AI/ML Enthusiast & Software Engineer focused on building production-ready AI systems, scalable full-stack applications, and robust backend architectures. Currently shipping real-world software and exploring advanced machine learning workflows</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil-rajpurohit&label=Profile%20views&color=0e75b6&style=flat" alt="sunil-rajpurohit" /> </p>
 
